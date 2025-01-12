@@ -1,0 +1,4173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brauhaus Früh am Dom",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50667",
+                "district": "Innenstadt",
+                "neighbourhood": "Martinsviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Am Hof",
+                "housenumber": "12",
+                "lon": 6.9569570190498435,
+                "lat": 50.93976755,
+                "state_code": "NW",
+                "formatted": "Brauhaus Früh am Dom, Am Hof 12, 50667 Cologne, Germany",
+                "address_line1": "Brauhaus Früh am Dom",
+                "address_line2": "Am Hof 12, 50667 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.regional",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Brauhaus Früh am Dom",
+                        "image": "https://commons.wikimedia.org/wiki/File:Fr%C3%BCh_Brauhaus_K%C3%B6ln_-_Am_Hof_12_%284608-10%29.jpg",
+                        "phone": "+492212613211",
+                        "osm_id": 142820042,
+                        "amenity": "restaurant",
+                        "cuisine": "regional",
+                        "website": "https://www.frueh.de/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "wikidata": "Q153852",
+                        "addr:city": "Köln",
+                        "wikipedia": "de:Cölner Hofbräu Früh",
+                        "wheelchair": "yes",
+                        "addr:street": "Am Hof",
+                        "addr:country": "DE",
+                        "building:use": "residential;industrial",
+                        "addr:postcode": 50667,
+                        "opening_hours": "Mo-Su 08:00-24:00",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 12,
+                        "wikimedia_commons": "Category:Früh (brewery)",
+                        "toilets:wheelchair": "yes",
+                        "wheelchair:description": "Die Toilette ist etwas eng wegen des Waschbeckens."
+                    }
+                },
+                "website": "https://www.frueh.de/",
+                "opening_hours": "Mo-Su 08:00-24:00",
+                "contact": {
+                    "phone": "+492212613211"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "description": "Die Toilette ist etwas eng wegen des Waschbeckens."
+                    },
+                    "toilets": true,
+                    "outdoor_seating": true
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q153852",
+                    "wikipedia": "de:Cölner Hofbräu Früh",
+                    "wikimedia_commons": "Category:Früh (brewery)",
+                    "image": "https://commons.wikimedia.org/wiki/File:Fr%C3%BCh_Brauhaus_K%C3%B6ln_-_Am_Hof_12_%284608-10%29.jpg"
+                },
+                "catering": {
+                    "cuisine": "regional"
+                },
+                "building": {
+                    "use": "residential;industrial"
+                },
+                "place_id": "51a6fc718aecd31b4059f4f4944d4a784940f00102f901ca428308000000009203154272617568617573204672c3bc6820616d20446f6d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9569570190498435,
+                    50.93976754925998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haxenhaus zum Rheingarten",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50667",
+                "district": "Innenstadt",
+                "neighbourhood": "Martinsviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Frankenwerft",
+                "housenumber": "19",
+                "lon": 6.962487,
+                "lat": 50.9376205,
+                "state_code": "NW",
+                "formatted": "Haxenhaus zum Rheingarten, Frankenwerft 19, 50667 Cologne, Germany",
+                "address_line1": "Haxenhaus zum Rheingarten",
+                "address_line2": "Frankenwerft 19, 50667 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Haxenhaus zum Rheingarten",
+                        "phone": "+49 221 9472400",
+                        "osm_id": 427539891,
+                        "amenity": "restaurant",
+                        "cuisine": "regional;german;pork_knuckle;sausage",
+                        "website": "https://www.haxenhaus.de/",
+                        "osm_type": "n",
+                        "wikidata": "Q1572243",
+                        "short_name": "Haxenhaus",
+                        "wheelchair": "limited",
+                        "addr:street": "Frankenwerft",
+                        "website:menu": "https://www.haxenhaus.de/de/speisekarte/",
+                        "addr:postcode": 50667,
+                        "opening_hours": "Mo-Su 11:30-01:00",
+                        "indoor_seating": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 19,
+                        "wikimedia_commons": "Category:Haxenhaus zum Rheingarten",
+                        "opening_hours:kitchen": "Mo-Su 11:30-23:00"
+                    }
+                },
+                "website": "https://www.haxenhaus.de/",
+                "opening_hours": "Mo-Su 11:30-01:00",
+                "name_other": {
+                    "short_name": "Haxenhaus"
+                },
+                "contact": {
+                    "phone": "+49 221 9472400"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "outdoor_seating": true
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q1572243",
+                    "wikimedia_commons": "Category:Haxenhaus zum Rheingarten"
+                },
+                "catering": {
+                    "cuisine": "regional;german;pork_knuckle;sausage"
+                },
+                "place_id": "51f54c2f3196d91b4059f730d2f203784940f00103f901b3bd7b1900000000920319486178656e68617573207a756d20526865696e67617274656e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.962487,
+                    50.93762049926038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bier-Esel",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50667",
+                "district": "Innenstadt",
+                "neighbourhood": "Apostelviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Breite Straße",
+                "housenumber": "114",
+                "lon": 6.9461822,
+                "lat": 50.9388896,
+                "state_code": "NW",
+                "formatted": "Bier-Esel, Breite Straße 114, 50667 Cologne, Germany",
+                "address_line1": "Bier-Esel",
+                "address_line2": "Breite Straße 114, 50667 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bier-Esel",
+                        "phone": "+49 221 257 60 90",
+                        "osm_id": 444111731,
+                        "amenity": "restaurant",
+                        "website": "https://www.suenner-brauerei.de/gastronomie_koeln+M56563c41e1f.html",
+                        "osm_type": "n",
+                        "wikidata": "Q857712",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Breite Straße",
+                        "description": "Kölsche-Muschel-Spezialitäten",
+                        "addr:country": "DE",
+                        "addr:postcode": 50667,
+                        "opening_hours": "Mo-Su 11:30-24:00",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 114,
+                        "wikimedia_commons": "Category:Bier-Esel"
+                    }
+                },
+                "website": "https://www.suenner-brauerei.de/gastronomie_koeln+M56563c41e1f.html",
+                "opening_hours": "Mo-Su 11:30-24:00",
+                "description": "Kölsche-Muschel-Spezialitäten",
+                "contact": {
+                    "phone": "+49 221 257 60 90"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "outdoor_seating": true
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q857712",
+                    "wikimedia_commons": "Category:Bier-Esel"
+                },
+                "place_id": "51b53a94fce3c81b40593bb0cd882d784940f00103f901739b781a00000000920309426965722d4573656c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9461822,
+                    50.93888959926013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Em Kölsche Boor",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50668",
+                "district": "Innenstadt",
+                "neighbourhood": "Ursulaviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Eigelstein",
+                "housenumber": "121-123",
+                "lon": 6.956675,
+                "lat": 50.948791,
+                "state_code": "NW",
+                "formatted": "Em Kölsche Boor, Eigelstein 121-123, 50668 Cologne, Germany",
+                "address_line1": "Em Kölsche Boor",
+                "address_line2": "Eigelstein 121-123, 50668 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.german",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.payment",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Em Kölsche Boor",
+                        "email": "boor@muehlenkoelsch.de",
+                        "phone": "+49 221 135227",
+                        "osm_id": 960118168,
+                        "amenity": "restaurant",
+                        "cuisine": "german",
+                        "website": "https://www.koelscheboor.com/",
+                        "operator": "Brauerei zur Malzmühle Schwartz GmbH & Co. KG",
+                        "osm_type": "n",
+                        "wikidata": "Q969673",
+                        "addr:city": "Köln",
+                        "wikipedia": "de:Em Kölsche Boor",
+                        "check_date": "2023-06-10",
+                        "wheelchair": "limited",
+                        "addr:street": "Eigelstein",
+                        "reservation": "yes",
+                        "addr:country": "DE",
+                        "payment:cash": "yes",
+                        "payment:visa": "yes",
+                        "opening_hours": "Mo-Th 17:00-23:00; Fr 15:00-24:00; Sa 12:00-24:00; Su 12:00-22:00",
+                        "outdoor_seating": "yes",
+                        "payment:maestro": "yes",
+                        "addr:housenumber": "121-123",
+                        "wikimedia_commons": "Category:Em Kölsche Boor",
+                        "payment:mastercard": "yes",
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.koelscheboor.com/",
+                "opening_hours": "Mo-Th 17:00-23:00; Fr 15:00-24:00; Sa 12:00-24:00; Su 12:00-22:00",
+                "operator": "Brauerei zur Malzmühle Schwartz GmbH & Co. KG",
+                "contact": {
+                    "phone": "+49 221 135227",
+                    "email": "boor@muehlenkoelsch.de"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "toilets": false,
+                    "outdoor_seating": true
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q969673",
+                    "wikipedia": "de:Em Kölsche Boor",
+                    "wikimedia_commons": "Category:Em Kölsche Boor"
+                },
+                "payment_options": {
+                    "cash": true,
+                    "visa": true,
+                    "maestro": true,
+                    "mastercard": true
+                },
+                "catering": {
+                    "cuisine": "german",
+                    "reservation": "required"
+                },
+                "place_id": "516c9a779ca2d31b4059e846c4fb71794940f00103f901983d3a3900000000920310456d204bc3b66c7363686520426f6f72"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.956675000000001,
+                    50.94879099925839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Krua Thai",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50674",
+                "district": "Innenstadt",
+                "neighbourhood": "Rathenauviertel",
+                "suburb": "Neustadt/Süd",
+                "street": "Brüsseler Straße",
+                "housenumber": "40-42",
+                "lon": 6.9347492,
+                "lat": 50.9359323,
+                "state_code": "NW",
+                "formatted": "Krua Thai, Brüsseler Straße 40-42, 50674 Cologne, Germany",
+                "address_line1": "Krua Thai",
+                "address_line2": "Brüsseler Straße 40-42, 50674 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.asian",
+                    "catering.restaurant.thai",
+                    "vegan",
+                    "vegetarian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Krua Thai",
+                        "email": "info@kruathai.koeln",
+                        "image": "https://belgischesviertel.kruathai.koeln/wp-content/uploads/2023/02/10_ktaussenansicht.jpg",
+                        "phone": "+49 221 2774636",
+                        "osm_id": 292424479,
+                        "amenity": "restaurant",
+                        "cuisine": "thai;asian",
+                        "website": "https://belgischesviertel.kruathai.koeln",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "diet:vegan": "yes",
+                        "wheelchair": "no",
+                        "addr:street": "Brüsseler Straße",
+                        "description": "Authentisches Thai-Essen in modernem Ambiente: Lecker, preiswert, schnell!",
+                        "addr:country": "DE",
+                        "addr:postcode": 50674,
+                        "opening_hours": "Mo-Su 12:00-22:00",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": "40-42",
+                        "diet:gluten_free": "no"
+                    }
+                },
+                "website": "https://belgischesviertel.kruathai.koeln",
+                "opening_hours": "Mo-Su 12:00-22:00",
+                "description": "Authentisches Thai-Essen in modernem Ambiente: Lecker, preiswert, schnell!",
+                "contact": {
+                    "phone": "+49 221 2774636",
+                    "email": "info@kruathai.koeln"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "outdoor_seating": true
+                },
+                "wiki_and_media": {
+                    "image": "https://belgischesviertel.kruathai.koeln/wp-content/uploads/2023/02/10_ktaussenansicht.jpg"
+                },
+                "catering": {
+                    "cuisine": "thai;asian",
+                    "diet": {
+                        "vegan": true,
+                        "vegetarian": true,
+                        "gluten_free": false
+                    }
+                },
+                "place_id": "5140d9efe42ebd1b4059204c2ca1cc774940f00103f9011f0b6e11000000009203094b7275612054686169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.934749199999999,
+                    50.935932299260685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puszta Hütte",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50676",
+                "district": "Innenstadt",
+                "neighbourhood": "Cäcilienviertel",
+                "suburb": "Altstadt-Süd",
+                "street": "Fleischmengergasse",
+                "housenumber": "57",
+                "lon": 6.948708796169354,
+                "lat": 50.9350841,
+                "state_code": "NW",
+                "formatted": "Puszta Hütte, Fleischmengergasse 57, 50676 Cologne, Germany",
+                "address_line1": "Puszta Hütte",
+                "address_line2": "Fleischmengergasse 57, 50676 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.hungarian"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.facilities",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Puszta Hütte",
+                        "osm_id": 33511760,
+                        "amenity": "restaurant",
+                        "cuisine": "hungarian",
+                        "website": "http://www.pusztahuette.de/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "wikidata": "Q1261662",
+                        "addr:city": "Köln",
+                        "wikipedia": "de:Puszta-Hütte",
+                        "wheelchair": "no",
+                        "addr:street": "Fleischmengergasse",
+                        "addr:country": "DE",
+                        "building:use": "foodservice",
+                        "addr:postcode": 50676,
+                        "opening_hours": "Mo-Sa 10:00-20:00",
+                        "addr:housenumber": 57,
+                        "wikimedia_commons": "Category:Puszta-Hütte"
+                    }
+                },
+                "website": "http://www.pusztahuette.de/",
+                "opening_hours": "Mo-Sa 10:00-20:00",
+                "facilities": {
+                    "wheelchair": false
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q1261662",
+                    "wikipedia": "de:Puszta-Hütte",
+                    "wikimedia_commons": "Category:Puszta-Hütte"
+                },
+                "catering": {
+                    "cuisine": "hungarian"
+                },
+                "building": {
+                    "use": "foodservice"
+                },
+                "place_id": "514fe693517acb1b4059deaaf4d5b0774940f00102f9015059ff010000000092030d5075737a74612048c3bc747465"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.948708796169355,
+                    50.935084099260834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Blauer König",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "51103",
+                "district": "Kalk",
+                "suburb": "Kalk",
+                "street": "Markt",
+                "housenumber": "24",
+                "lon": 7.00649,
+                "lat": 50.9403976,
+                "state_code": "NW",
+                "formatted": "Blauer König, Markt 24, 51103 Cologne, Germany",
+                "address_line1": "Blauer König",
+                "address_line2": "Markt 24, 51103 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.mediterranean",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Blauer König",
+                        "phone": "+49 221 9939 3748",
+                        "osm_id": 55441368,
+                        "amenity": "restaurant",
+                        "cuisine": "mediterranean",
+                        "website": "https://www.blauer-koenig.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Markt",
+                        "addr:country": "DE",
+                        "payment:cash": "yes",
+                        "addr:postcode": 51103,
+                        "opening_hours": "Tu-Su 12:00-23:00",
+                        "addr:housenumber": 24
+                    }
+                },
+                "website": "https://www.blauer-koenig.de/",
+                "opening_hours": "Tu-Su 12:00-23:00",
+                "contact": {
+                    "phone": "+49 221 9939 3748"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    }
+                },
+                "payment_options": {
+                    "cash": true
+                },
+                "catering": {
+                    "cuisine": "mediterranean"
+                },
+                "place_id": "5110018750a5061c40596f07d3f25e784940f00103f901d8f74d030000000092030d426c61756572204bc3b66e6967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.006489999999999,
+                    50.940397599259875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maybach",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50670",
+                "district": "Innenstadt",
+                "neighbourhood": "Agnesviertel",
+                "suburb": "Neustadt/Nord",
+                "street": "Maybachstraße",
+                "lon": 6.949649356583093,
+                "lat": 50.949154,
+                "state_code": "NW",
+                "formatted": "Maybachstraße, 50670 Cologne, Germany",
+                "address_line1": "Maybachstraße",
+                "address_line2": "50670 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.german",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bar": "yes",
+                        "name": "Maybach",
+                        "phone": "+49 221 9123598",
+                        "osm_id": 91045132,
+                        "amenity": "restaurant",
+                        "cuisine": "german",
+                        "smoking": "outside",
+                        "website": "https://maybach111.de/",
+                        "building": "yes",
+                        "operator": "maybach Gastronomie GmbH",
+                        "osm_type": "w",
+                        "addr:city": "Köln",
+                        "ref:vatin": "DE228661203",
+                        "wheelchair": "yes",
+                        "addr:country": "DE",
+                        "website:menu": "https://maybach111.de/downloads/maybach_Tageskarte.pdf",
+                        "opening_hours": "Tu-Fr 12:00-14:30, 18:00+; Sa 18:00+",
+                        "outdoor_seating": "yes",
+                        "breakfast:brunch": "Su 10:00-15:00",
+                        "cuisine:crossover": "german;italian;american"
+                    }
+                },
+                "website": "https://maybach111.de/",
+                "opening_hours": "Tu-Fr 12:00-14:30, 18:00+; Sa 18:00+",
+                "operator": "maybach Gastronomie GmbH",
+                "ref_other": {
+                    "vatin": "DE228661203"
+                },
+                "contact": {
+                    "phone": "+49 221 9123598"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "smoking": true,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "german"
+                },
+                "place_id": "517ac484e170cc1b40594fd7d4e07d794940f00102f9010c3d6d05000000009203074d617962616368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9496493565831035,
+                    50.94915399925832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bei d'r Tant",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50667",
+                "district": "Innenstadt",
+                "neighbourhood": "Cäcilienviertel",
+                "suburb": "Altstadt-Süd",
+                "street": "Cäcilienstraße",
+                "housenumber": "28",
+                "lon": 6.952106295454545,
+                "lat": 50.9355994,
+                "state_code": "NW",
+                "formatted": "Bei d'r Tant, Cäcilienstraße 28, 50667 Cologne, Germany",
+                "address_line1": "Bei d'r Tant",
+                "address_line2": "Cäcilienstraße 28, 50667 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.german"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bei d'r Tant",
+                        "phone": "+49 221 25 77 360",
+                        "osm_id": 145035079,
+                        "amenity": "restaurant",
+                        "cuisine": "german",
+                        "website": "https://www.bei-dr-tant.de/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Köln",
+                        "check_date": "2024-04-12",
+                        "roof:shape": "flat",
+                        "addr:street": "Cäcilienstraße",
+                        "addr:country": "DE",
+                        "building:use": "residential;industrial",
+                        "addr:postcode": 50667,
+                        "opening_hours": "Su,PH off; Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00",
+                        "indoor_seating": "yes",
+                        "building:levels": 5,
+                        "diet:vegetarian": "no",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 28
+                    }
+                },
+                "website": "https://www.bei-dr-tant.de/",
+                "opening_hours": "Su,PH off; Mo-Th 11:00-24:00; Fr-Sa 11:00-01:00",
+                "contact": {
+                    "phone": "+49 221 25 77 360"
+                },
+                "facilities": {
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "german",
+                    "diet": {
+                        "vegetarian": false
+                    }
+                },
+                "building": {
+                    "levels": 5,
+                    "use": "residential;industrial",
+                    "roof": {
+                        "shape": "flat"
+                    }
+                },
+                "place_id": "51042ce5f3f4ce1b4059b6fd9ab8c1774940f00102f901470fa5080000000092030c426569206427722054616e74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.952106295454545,
+                    50.93559939926074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eichendorf",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50823",
+                "district": "Ehrenfeld",
+                "suburb": "Neuehrenfeld",
+                "street": "Ottostraße",
+                "housenumber": "69",
+                "lon": 6.9251393,
+                "lat": 50.9550285,
+                "state_code": "NW",
+                "formatted": "Eichendorf, Ottostraße 69, 50823 Cologne, Germany",
+                "address_line1": "Eichendorf",
+                "address_line2": "Ottostraße 69, 50823 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "vegetarian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Eichendorf",
+                        "email": "info@eichendorff.koeln",
+                        "phone": "+49 221 28083866",
+                        "osm_id": 175667464,
+                        "amenity": "restaurant",
+                        "website": "https://eichendorff.koeln/",
+                        "osm_type": "n",
+                        "wheelchair": "no",
+                        "reservation": "recommended",
+                        "opening_hours": "Mo off; Tu-Sa 17:00-24:00; Su 12:00-15:00, 17:00-22:00",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "toilets:wheelchair": "no",
+                        "opening_hours:kitchen": "Mo off; Tu-Sa 18:00-22:00; Su 12:00-14:00, 17:00-21:00"
+                    }
+                },
+                "website": "https://eichendorff.koeln/",
+                "opening_hours": "Mo off; Tu-Sa 17:00-24:00; Su 12:00-15:00, 17:00-22:00",
+                "contact": {
+                    "phone": "+49 221 28083866",
+                    "email": "info@eichendorff.koeln"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "toilets": false,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "diet": {
+                        "vegetarian": true
+                    },
+                    "reservation": "recommended"
+                },
+                "place_id": "5132fa76b757b31b40596e87b55f3e7a4940f00103f9010879780a0000000092030a45696368656e646f7266"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9251393,
+                    50.955028499257295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tor 1",
+                "old_name": "Werkstor 1 der Clouth-Werke",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50733",
+                "district": "Nippes",
+                "suburb": "Nippes",
+                "street": "Niehler Straße",
+                "housenumber": "100",
+                "lon": 6.958871470464363,
+                "lat": 50.9643855,
+                "state_code": "NW",
+                "formatted": "Tor 1, Niehler Straße 100, 50733 Cologne, Germany",
+                "address_line1": "Tor 1",
+                "address_line2": "Niehler Straße 100, 50733 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "building.historic",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.regional",
+                    "heritage"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.contact",
+                    "details.heritage"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tor 1",
+                        "phone": "+49 221 56092383",
+                        "osm_id": 192997718,
+                        "amenity": "restaurant",
+                        "cuisine": "regional",
+                        "website": "https://www.clouth104-gastro.de/",
+                        "building": "yes",
+                        "heritage": 5,
+                        "old_name": "Werkstor 1 der Clouth-Werke",
+                        "osm_type": "w",
+                        "addr:city": "Köln",
+                        "check_date": "2024-09-01",
+                        "diet:local": "yes",
+                        "addr:street": "Niehler Straße",
+                        "addr:postcode": 50733,
+                        "opening_hours": "Mo-Fr 07:00-23:00; Sa 10:00-23:00",
+                        "building:levels": 1,
+                        "addr:housenumber": 100,
+                        "heritage:operator": "BezirksRegierung"
+                    }
+                },
+                "website": "https://www.clouth104-gastro.de/",
+                "opening_hours": "Mo-Fr 07:00-23:00; Sa 10:00-23:00",
+                "name_other": {
+                    "old_name": "Werkstor 1 der Clouth-Werke"
+                },
+                "contact": {
+                    "phone": "+49 221 56092383"
+                },
+                "heritage": {
+                    "level": 5,
+                    "operator": "BezirksRegierung"
+                },
+                "catering": {
+                    "cuisine": "regional",
+                    "diet": {
+                        "local": true
+                    }
+                },
+                "building": {
+                    "levels": 1
+                },
+                "place_id": "51f4d81a67e2d51b40591305eafb707b4940f00102f90156e9800b00000000920305546f722031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.958871470464363,
+                    50.96438549925565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poller Fischerhaus",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "51105",
+                "district": "Porz",
+                "suburb": "Poll",
+                "street": "Weidenweg",
+                "housenumber": "46",
+                "lon": 6.991888643069557,
+                "lat": 50.9023856,
+                "state_code": "NW",
+                "formatted": "Poller Fischerhaus, Weidenweg 46, 51105 Cologne, Germany",
+                "address_line1": "Poller Fischerhaus",
+                "address_line2": "Weidenweg 46, 51105 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.german",
+                    "catering.restaurant.regional",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Poller Fischerhaus",
+                        "email": "info@poller-fischerhaus.com",
+                        "phone": "+49221 829 1322",
+                        "osm_id": 196660973,
+                        "amenity": "restaurant",
+                        "cuisine": "regional;german",
+                        "website": "https://www.poller-fischerhaus.com/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Köln",
+                        "wheelchair": "yes",
+                        "addr:street": "Weidenweg",
+                        "addr:country": "DE",
+                        "building:use": "industrial",
+                        "addr:postcode": 51105,
+                        "opening_hours": "Mo-Fr 14:00-24:00; Sa-Su 11:00-20:00; PH 11:00-20:00",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 46
+                    }
+                },
+                "website": "https://www.poller-fischerhaus.com/",
+                "opening_hours": "Mo-Fr 14:00-24:00; Sa-Su 11:00-20:00; PH 11:00-20:00",
+                "contact": {
+                    "phone": "+49221 829 1322",
+                    "email": "info@poller-fischerhaus.com"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "regional;german"
+                },
+                "building": {
+                    "use": "industrial"
+                },
+                "place_id": "51c2070da8b1f71b4059a79d0e5f81734940f00102f901edceb80b00000000920312506f6c6c6572204669736368657268617573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.99188864306956,
+                    50.90238559926666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fisch Hof",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50674",
+                "district": "Innenstadt",
+                "neighbourhood": "Belgisches Viertel",
+                "suburb": "Neustadt/Nord",
+                "street": "Brüsseler Straße",
+                "housenumber": "46",
+                "lon": 6.934789922724975,
+                "lat": 50.9367912,
+                "state_code": "NW",
+                "formatted": "Fisch Hof, Brüsseler Straße 46, 50674 Cologne, Germany",
+                "address_line1": "Fisch Hof",
+                "address_line2": "Brüsseler Straße 46, 50674 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.sushi"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Fisch Hof",
+                        "email": "info@fisch-hof.de",
+                        "phone": "+49-221-5103433",
+                        "osm_id": 218523811,
+                        "amenity": "restaurant",
+                        "cuisine": "sushi",
+                        "website": "https://www.fisch-hof.de/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Köln",
+                        "check_date": "2024-09-05",
+                        "addr:street": "Brüsseler Straße",
+                        "addr:country": "DE",
+                        "building:use": "residential;industrial",
+                        "addr:postcode": 50674,
+                        "opening_hours": "We,Th 15:00-22:00; Fr,Sa 13:00-22:00; Su 13:00-21:00",
+                        "addr:housenumber": 46
+                    }
+                },
+                "website": "https://www.fisch-hof.de/",
+                "opening_hours": "We,Th 15:00-22:00; Fr,Sa 13:00-22:00; Su 13:00-21:00",
+                "contact": {
+                    "phone": "+49-221-5103433",
+                    "email": "info@fisch-hof.de"
+                },
+                "catering": {
+                    "cuisine": "sushi"
+                },
+                "building": {
+                    "use": "residential;industrial"
+                },
+                "place_id": "51c0efca9139bd1b4059940026c6e8774940f00102f901a368060d00000000920309466973636820486f66"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.934789922724974,
+                    50.93679119926051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Genussbar",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50825",
+                "district": "Ehrenfeld",
+                "suburb": "Neuehrenfeld",
+                "street": "Eichendorffstraße",
+                "housenumber": "49",
+                "lon": 6.9196544,
+                "lat": 50.9570878,
+                "state_code": "NW",
+                "formatted": "Genussbar, Eichendorffstraße 49, 50825 Cologne, Germany",
+                "address_line1": "Genussbar",
+                "address_line2": "Eichendorffstraße 49, 50825 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "vegan",
+                    "vegetarian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Genussbar",
+                        "email": "genussbars@web.de",
+                        "phone": "+491639250739",
+                        "osm_id": 224422611,
+                        "amenity": "restaurant",
+                        "website": "https://www.genussbars.de/",
+                        "osm_type": "n",
+                        "diet:vegan": "yes",
+                        "reservation": "yes",
+                        "payment:cash": "yes",
+                        "opening_hours": "Mo off; Tu-Su 17:00-23:00",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "payment:debit_cards": "yes"
+                    }
+                },
+                "website": "https://www.genussbars.de/",
+                "opening_hours": "Mo off; Tu-Su 17:00-23:00",
+                "contact": {
+                    "phone": "+491639250739",
+                    "email": "genussbars@web.de"
+                },
+                "facilities": {
+                    "outdoor_seating": true
+                },
+                "payment_options": {
+                    "cash": true,
+                    "debit_cards": true
+                },
+                "catering": {
+                    "diet": {
+                        "vegan": true,
+                        "vegetarian": true
+                    },
+                    "reservation": "required"
+                },
+                "place_id": "51727d0ee2b9ad1b4059c39a5eda817a4940f00103f901d36a600d0000000092030947656e757373626172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.919654400000001,
+                    50.95708779925692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schlüters",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50737",
+                "district": "Nippes",
+                "suburb": "Weidenpesch",
+                "street": "Neusser Straße",
+                "housenumber": "494",
+                "lon": 6.9502807,
+                "lat": 50.9755222,
+                "state_code": "NW",
+                "formatted": "Schlüters, Neusser Straße 494, 50737 Cologne, Germany",
+                "address_line1": "Schlüters",
+                "address_line2": "Neusser Straße 494, 50737 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.international"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bar": "yes",
+                        "name": "Schlüters",
+                        "phone": "+49 221 1687 9507",
+                        "osm_id": 242924512,
+                        "amenity": "restaurant",
+                        "cuisine": "international",
+                        "website": "https://www.schluetersinweidenpesch.de/",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "addr:city": "Köln",
+                        "wheelchair": "no",
+                        "addr:street": "Neusser Straße",
+                        "addr:postcode": 50737,
+                        "opening_hours": "Mo-Su 16:30-22:30+",
+                        "indoor_seating": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 494,
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.schluetersinweidenpesch.de/",
+                "opening_hours": "Mo-Su 16:30-22:30+",
+                "contact": {
+                    "phone": "+49 221 1687 9507"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "toilets": false,
+                    "outdoor_seating": true,
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "international"
+                },
+                "place_id": "517814426216cd1b4059862853e9dd7c4940f00103f901e0bb7a0e0000000092030a5363686cc3bc74657273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9502807,
+                    50.97552219925369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sicula",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50825",
+                "district": "Ehrenfeld",
+                "suburb": "Ehrenfeld",
+                "street": "Subbelrather Straße",
+                "housenumber": "353",
+                "lon": 6.9125427,
+                "lat": 50.9566763,
+                "state_code": "NW",
+                "formatted": "Sicula, Subbelrather Straße 353, 50825 Cologne, Germany",
+                "address_line1": "Sicula",
+                "address_line2": "Subbelrather Straße 353, 50825 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Sicula",
+                        "phone": "+49 221 5501976",
+                        "osm_id": 243975721,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "http://www.trattoria-sicula.de",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "check_date": "2024-08-06",
+                        "wheelchair": "no",
+                        "addr:street": "Subbelrather Straße",
+                        "addr:postcode": 50825,
+                        "opening_hours": "Tu-Su 17:30-23:00; Mo off",
+                        "addr:housenumber": 353
+                    }
+                },
+                "website": "http://www.trattoria-sicula.de",
+                "opening_hours": "Tu-Su 17:30-23:00; Mo off",
+                "contact": {
+                    "phone": "+49 221 5501976"
+                },
+                "facilities": {
+                    "wheelchair": false
+                },
+                "catering": {
+                    "cuisine": "italian"
+                },
+                "place_id": "516dd0f29771a61b40596415755e747a4940f00103f90129c68a0e00000000920306536963756c61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9125427,
+                    50.956676299257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Essers",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50823",
+                "district": "Ehrenfeld",
+                "suburb": "Neuehrenfeld",
+                "street": "Ottostraße",
+                "housenumber": "72",
+                "lon": 6.9270626,
+                "lat": 50.9564907,
+                "state_code": "NW",
+                "formatted": "Essers, Ottostraße 72, 50823 Cologne, Germany",
+                "address_line1": "Essers",
+                "address_line2": "Ottostraße 72, 50823 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.austrian",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Essers",
+                        "level": 0,
+                        "phone": "+49 221 425954",
+                        "osm_id": 244053076,
+                        "amenity": "restaurant",
+                        "brewery": "Mühlen Kölsch",
+                        "cuisine": "austrian",
+                        "smoking": "outside",
+                        "website": "https://www.essers-gasthaus.de",
+                        "delivery": "no",
+                        "osm_type": "n",
+                        "takeaway": "no",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Ottostraße",
+                        "addr:postcode": 50823,
+                        "opening_hours": "Th-Tu 17:30+",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 72,
+                        "toilets:wheelchair": "no",
+                        "check_date:opening_hours": "2024-06-02"
+                    }
+                },
+                "website": "https://www.essers-gasthaus.de",
+                "opening_hours": "Th-Tu 17:30+",
+                "contact": {
+                    "phone": "+49 221 425954"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "smoking": true,
+                    "toilets": false,
+                    "outdoor_seating": true,
+                    "takeaway": false,
+                    "delivery": false
+                },
+                "catering": {
+                    "cuisine": "austrian"
+                },
+                "place_id": "510161f1e54fb51b40595c1e88496e7a4940f00103f90154f48b0e00000000920306457373657273"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9270626,
+                    50.956490699257046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pane & Cioccolata",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50823",
+                "district": "Ehrenfeld",
+                "suburb": "Neuehrenfeld",
+                "street": "Jessestraße",
+                "lon": 6.9244131,
+                "lat": 50.9542104,
+                "state_code": "NW",
+                "formatted": "Pane & Cioccolata, Jessestraße, 50823 Cologne, Germany",
+                "address_line1": "Pane & Cioccolata",
+                "address_line2": "Jessestraße, 50823 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pane & Cioccolata",
+                        "phone": "+49 221 558996",
+                        "osm_id": 245988512,
+                        "amenity": "restaurant",
+                        "website": "http://www.paneecioccolata.de/",
+                        "osm_type": "n",
+                        "wheelchair": "yes",
+                        "opening_hours": "Tu-Su 17:00-22:00",
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "http://www.paneecioccolata.de/",
+                "opening_hours": "Tu-Su 17:00-22:00",
+                "contact": {
+                    "phone": "+49 221 558996"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "toilets": false
+                },
+                "place_id": "51d5f9015999b21b40592b28fd90237a4940f00103f901a07ca90e0000000092031150616e6520262043696f63636f6c617461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9244131,
+                    50.95421039925744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perla",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50739",
+                "district": "Nippes",
+                "suburb": "Bilderstöckchen",
+                "street": "Longericher Straße",
+                "housenumber": "57",
+                "lon": 6.9351738,
+                "lat": 50.9718566,
+                "state_code": "NW",
+                "formatted": "Perla, Longericher Straße 57, 50739 Cologne, Germany",
+                "address_line1": "Perla",
+                "address_line2": "Longericher Straße 57, 50739 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Perla",
+                        "email": "info@ristorante-perla.de",
+                        "phone": "+49 221 168 40 174",
+                        "osm_id": 246271988,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "https://www.ristorante-perla.de/",
+                        "osm_type": "n",
+                        "opening_hours": "Mo off; Tu-Sa,PH 17:00-22:30; Su 12:00-14:30,18:00-22:30"
+                    }
+                },
+                "website": "https://www.ristorante-perla.de/",
+                "opening_hours": "Mo off; Tu-Sa,PH 17:00-22:30; Su 12:00-14:30,18:00-22:30",
+                "contact": {
+                    "phone": "+49 221 168 40 174",
+                    "email": "info@ristorante-perla.de"
+                },
+                "catering": {
+                    "cuisine": "italian"
+                },
+                "place_id": "51de4d5c339ebd1b40597e190bcc657c4940f00103f901f4cfad0e000000009203055065726c61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.935173799999999,
+                    50.97185659925434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fink",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50733",
+                "district": "Nippes",
+                "neighbourhood": "Sechzigviertel",
+                "suburb": "Nippes",
+                "street": "Siebachstraße",
+                "housenumber": "50",
+                "lon": 6.9499798,
+                "lat": 50.9607779,
+                "state_code": "NW",
+                "formatted": "Fink, Siebachstraße 50, 50733 Cologne, Germany",
+                "address_line1": "Fink",
+                "address_line2": "Siebachstraße 50, 50733 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "vegetarian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Fink",
+                        "phone": "+49 221 78949989",
+                        "osm_id": 247383458,
+                        "amenity": "restaurant",
+                        "website": "https://www.fink-nippes.de",
+                        "osm_type": "n",
+                        "diet:vegan": "no",
+                        "wheelchair": "no",
+                        "addr:street": "Siebachstraße",
+                        "website:menu": "https://www.fink-nippes.de/speisen/#prettyPhoto/0/",
+                        "opening_hours": "We-Su 17:00-23:00; Mo,Tu off",
+                        "indoor_seating": "yes",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 50
+                    }
+                },
+                "website": "https://www.fink-nippes.de",
+                "opening_hours": "We-Su 17:00-23:00; Mo,Tu off",
+                "contact": {
+                    "phone": "+49 221 78949989"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "diet": {
+                        "vegan": false,
+                        "vegetarian": true
+                    }
+                },
+                "place_id": "5146713381c7cc1b40593e032cc5fa7a4940f00103f901a2c5be0e0000000092030446696e6b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9499797999999995,
+                    50.960777899256286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gaststätte Wirtz",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50678",
+                "district": "Innenstadt",
+                "neighbourhood": "Pantaleonsviertel",
+                "suburb": "Altstadt-Süd",
+                "street": "Isabellenstraße",
+                "housenumber": "1",
+                "lon": 6.9561869,
+                "lat": 50.9254501,
+                "state_code": "NW",
+                "formatted": "Gaststätte Wirtz, Isabellenstraße 1, 50678 Cologne, Germany",
+                "address_line1": "Gaststätte Wirtz",
+                "address_line2": "Isabellenstraße 1, 50678 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.regional"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Gaststätte Wirtz",
+                        "email": "info@wirtz-koeln.de",
+                        "phone": "+49 221 314839",
+                        "osm_id": 248114816,
+                        "amenity": "restaurant",
+                        "cuisine": "regional",
+                        "website": "https://wirtz-koeln.de/",
+                        "operator": "Alexander Haag",
+                        "osm_type": "n",
+                        "wheelchair": "no",
+                        "opening_hours": "We off; Th-Tu 17:30-23:00+"
+                    }
+                },
+                "website": "https://wirtz-koeln.de/",
+                "opening_hours": "We off; Th-Tu 17:30-23:00+",
+                "operator": "Alexander Haag",
+                "contact": {
+                    "phone": "+49 221 314839",
+                    "email": "info@wirtz-koeln.de"
+                },
+                "facilities": {
+                    "wheelchair": false
+                },
+                "catering": {
+                    "cuisine": "regional"
+                },
+                "place_id": "515974a1a822d31b4059d0341b2675764940f00103f90180eec90e00000000920311476173747374c3a474746520576972747a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9561869,
+                    50.92545009926255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cafe Especial",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50679",
+                "district": "Innenstadt",
+                "suburb": "Deutz",
+                "street": "Neuhöfferstraße",
+                "housenumber": "32",
+                "lon": 6.9753385,
+                "lat": 50.9395399,
+                "state_code": "NW",
+                "formatted": "Cafe Especial, Neuhöfferstraße 32, 50679 Cologne, Germany",
+                "address_line1": "Cafe Especial",
+                "address_line2": "Neuhöfferstraße 32, 50679 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.mexican",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "fax": "+49 (0)221 9213479",
+                        "name": "Cafe Especial",
+                        "phone": "+49 (0)221 814755",
+                        "osm_id": 248711120,
+                        "amenity": "restaurant",
+                        "cuisine": "mexican",
+                        "smoking": "separated",
+                        "toilets": "yes",
+                        "website": "https://www.cafe-especial.com/",
+                        "operator": "Reposados Betreiber UG",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "check_date": "2024-04-13",
+                        "wheelchair": "limited",
+                        "addr:street": "Neuhöfferstraße",
+                        "addr:suburb": "Deutz",
+                        "addr:country": "DE",
+                        "addr:postcode": 50679,
+                        "opening_hours": "Mo-Su 11:00-01:00",
+                        "indoor_seating": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 32,
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.cafe-especial.com/",
+                "opening_hours": "Mo-Su 11:00-01:00",
+                "operator": "Reposados Betreiber UG",
+                "contact": {
+                    "phone": "+49 (0)221 814755",
+                    "fax": "+49 (0)221 9213479"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "smoking": true,
+                    "toilets": true,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "mexican"
+                },
+                "place_id": "51681ec022bfe61b4059f54dead742784940f00103f901d007d30e0000000092030d4361666520457370656369616c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.975338499999999,
+                    50.93953989926005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wartesaal am Dom",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50668",
+                "district": "Innenstadt",
+                "neighbourhood": "Martinsviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Johannisstraße",
+                "housenumber": "1",
+                "lon": 6.9589528,
+                "lat": 50.9421137,
+                "state_code": "NW",
+                "formatted": "Wartesaal am Dom, Johannisstraße 1, 50668 Cologne, Germany",
+                "address_line1": "Wartesaal am Dom",
+                "address_line2": "Johannisstraße 1, 50668 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.facilities",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Wartesaal am Dom",
+                        "email": "info@wartesaalamdom.de",
+                        "phone": "+49 221 12606470",
+                        "osm_id": 249318732,
+                        "amenity": "restaurant",
+                        "website": "http://www.wartesaalamdom.de",
+                        "operator": "Wartesaal Connection Gastronomie- und Veranstaltungs-GmbH",
+                        "osm_type": "n",
+                        "wikidata": "Q438215",
+                        "addr:city": "Köln",
+                        "wikipedia": "de:Alter Wartesaal",
+                        "wheelchair": "yes",
+                        "addr:street": "Johannisstraße",
+                        "website:menu": "https://www.wartesaalamdom.org/restaurant/speisekarten/",
+                        "addr:postcode": 50668,
+                        "addr:housenumber": 1,
+                        "wikimedia_commons": "Category:Alter Wartesaal",
+                        "toilets:wheelchair": "no",
+                        "wheelchair:description": "Rolli Eingang rechts im Tunnel."
+                    }
+                },
+                "website": "http://www.wartesaalamdom.de",
+                "operator": "Wartesaal Connection Gastronomie- und Veranstaltungs-GmbH",
+                "contact": {
+                    "phone": "+49 221 12606470",
+                    "email": "info@wartesaalamdom.de"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "description": "Rolli Eingang rechts im Tunnel."
+                    },
+                    "toilets": false
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q438215",
+                    "wikipedia": "de:Alter Wartesaal",
+                    "wikimedia_commons": "Category:Alter Wartesaal"
+                },
+                "place_id": "5169a109b9f7d51b40597bb7832e97784940f00103f9014c4ddc0e0000000092031057617274657361616c20616d20446f6d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9589528,
+                    50.94211369925957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rosenrot",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50733",
+                "district": "Nippes",
+                "neighbourhood": "Sechzigviertel",
+                "suburb": "Nippes",
+                "street": "Turmstraße",
+                "housenumber": "4",
+                "lon": 6.9515413,
+                "lat": 50.9645067,
+                "state_code": "NW",
+                "formatted": "Rosenrot, Turmstraße 4, 50733 Cologne, Germany",
+                "address_line1": "Rosenrot",
+                "address_line2": "Turmstraße 4, 50733 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.regional",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Rosenrot",
+                        "phone": "+49 221 7325025",
+                        "osm_id": 252017007,
+                        "amenity": "restaurant",
+                        "cuisine": "regional",
+                        "website": "http://rosenrot-koeln.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Turmstraße",
+                        "addr:country": "DE",
+                        "addr:postcode": 50733,
+                        "opening_hours": "Tu-Sa 10:00-21:30; Su-Mo 10:00-15:30",
+                        "addr:housenumber": 4,
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "http://rosenrot-koeln.de/",
+                "opening_hours": "Tu-Sa 10:00-21:30; Su-Mo 10:00-15:30",
+                "contact": {
+                    "phone": "+49 221 7325025"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "toilets": false
+                },
+                "catering": {
+                    "cuisine": "regional"
+                },
+                "place_id": "515d2cb1d760ce1b4059b3099df4747b4940f00103f9016f79050f00000000920308526f73656e726f74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9515413,
+                    50.964506699255615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gernot's",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50733",
+                "district": "Nippes",
+                "suburb": "Nippes",
+                "street": "Mauenheimer Straße",
+                "housenumber": "32",
+                "lon": 6.9518029,
+                "lat": 50.9664155,
+                "state_code": "NW",
+                "formatted": "Gernot's, Mauenheimer Straße 32, 50733 Cologne, Germany",
+                "address_line1": "Gernot's",
+                "address_line2": "Mauenheimer Straße 32, 50733 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Gernot's",
+                        "phone": "+49 221 766 305",
+                        "osm_id": 252017287,
+                        "amenity": "restaurant",
+                        "smoking": "outside",
+                        "website": "https://www.gernots.com/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "no",
+                        "addr:street": "Mauenheimer Straße",
+                        "addr:postcode": 50733,
+                        "opening_hours": "Mo-Fr 12:00-24:00; PH,Sa,Su 10:00-24:00",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 32,
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.gernots.com/",
+                "opening_hours": "Mo-Fr 12:00-24:00; PH,Sa,Su 10:00-24:00",
+                "contact": {
+                    "phone": "+49 221 766 305"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "smoking": true,
+                    "toilets": false,
+                    "outdoor_seating": true
+                },
+                "place_id": "51aaf35e6ba5ce1b405912d3c980b37b4940f00103f901877a050f000000009203084765726e6f742773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.951802899999999,
+                    50.96641549925529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alfama",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50678",
+                "district": "Innenstadt",
+                "neighbourhood": "Severinsviertel",
+                "suburb": "Altstadt-Süd",
+                "street": "Im Dau",
+                "housenumber": "6",
+                "lon": 6.956909991214085,
+                "lat": 50.927476299999995,
+                "state_code": "NW",
+                "formatted": "Alfama, Im Dau 6, 50678 Cologne, Germany",
+                "address_line1": "Alfama",
+                "address_line2": "Im Dau 6, 50678 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.portuguese"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Alfama",
+                        "phone": "+49 221 31097100",
+                        "osm_id": 252813159,
+                        "amenity": "restaurant",
+                        "cuisine": "portuguese",
+                        "website": "http://alfama-colonia.de/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Köln",
+                        "roof:shape": "gabled",
+                        "addr:street": "Im Dau",
+                        "addr:country": "DE",
+                        "building:use": "residential;industrial",
+                        "addr:postcode": 50678,
+                        "opening_hours": "Tu-Sa 18:00-22:30; PH,Su 12:00-15:00,18:00-22:30",
+                        "building:levels": 4,
+                        "addr:housenumber": 6,
+                        "roof:orientation": "across"
+                    }
+                },
+                "website": "http://alfama-colonia.de/",
+                "opening_hours": "Tu-Sa 18:00-22:30; PH,Su 12:00-15:00,18:00-22:30",
+                "contact": {
+                    "phone": "+49 221 31097100"
+                },
+                "catering": {
+                    "cuisine": "portuguese"
+                },
+                "building": {
+                    "levels": 4,
+                    "use": "residential;industrial",
+                    "roof": {
+                        "shape": "gabled",
+                        "orientation": "across"
+                    }
+                },
+                "place_id": "51aaeb7536e0d31b4059b5921a8bb7764940f00102f901679f110f00000000920306416c66616d61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.956909991214085,
+                    50.927476299262175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LAMIA",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50733",
+                "district": "Nippes",
+                "neighbourhood": "Sechzigviertel",
+                "suburb": "Nippes",
+                "street": "Neusser Straße",
+                "housenumber": "182",
+                "lon": 6.9547383,
+                "lat": 50.9599996,
+                "state_code": "NW",
+                "formatted": "LAMIA, Neusser Straße 182, 50733 Cologne, Germany",
+                "address_line1": "LAMIA",
+                "address_line2": "Neusser Straße 182, 50733 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "LAMIA",
+                        "phone": "+49 221 88889988",
+                        "osm_id": 256216933,
+                        "amenity": "restaurant",
+                        "cuisine": "fish;mediterranean;seafood",
+                        "website": "https://www.lamia.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Neusser Straße",
+                        "addr:postcode": 50733,
+                        "opening_hours": "Tu-Sa 18:00-00:00",
+                        "addr:housenumber": 182
+                    }
+                },
+                "website": "https://www.lamia.de/",
+                "opening_hours": "Tu-Sa 18:00-00:00",
+                "contact": {
+                    "phone": "+49 221 88889988"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    }
+                },
+                "catering": {
+                    "cuisine": "fish;mediterranean;seafood"
+                },
+                "place_id": "515cf4baeaa6d11b40595d7d5144e17a4940f00103f901658f450f000000009203054c414d4941"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.954738299999999,
+                    50.95999959925641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "bisù",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50733",
+                "district": "Nippes",
+                "neighbourhood": "Sechzigviertel",
+                "suburb": "Nippes",
+                "street": "Scharnhorststraße",
+                "housenumber": "8",
+                "lon": 6.9545767,
+                "lat": 50.9655955,
+                "state_code": "NW",
+                "formatted": "bisù, Scharnhorststraße 8, 50733 Cologne, Germany",
+                "address_line1": "bisù",
+                "address_line2": "Scharnhorststraße 8, 50733 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "bisù",
+                        "phone": "+49 174 5797400",
+                        "osm_id": 267531102,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "https://nippes.bisu-koeln.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Scharnhorststraße",
+                        "addr:postcode": 50733,
+                        "opening_hours": "Mo-Su 17:00+",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 8,
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://nippes.bisu-koeln.de/",
+                "opening_hours": "Mo-Su 17:00+",
+                "contact": {
+                    "phone": "+49 174 5797400"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "toilets": false,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "italian"
+                },
+                "place_id": "512a18f08d7cd11b4059c23b21a2987b4940f00103f9015e33f20f00000000920305626973c3b9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.954576699999999,
+                    50.96559549925543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gilden Brauhaus",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "51063",
+                "district": "Mülheim",
+                "suburb": "Mülheim",
+                "street": "Clevischer Ring",
+                "housenumber": "121a",
+                "lon": 7.0062013,
+                "lat": 50.9711306,
+                "state_code": "NW",
+                "formatted": "Gilden Brauhaus, Clevischer Ring 121a, 51063 Cologne, Germany",
+                "address_line1": "Gilden Brauhaus",
+                "address_line2": "Clevischer Ring 121a, 51063 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Gilden Brauhaus",
+                        "phone": "+49-221-6406339",
+                        "osm_id": 268645372,
+                        "amenity": "restaurant",
+                        "website": "https://www.gilden-brauhaus.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Clevischer Ring",
+                        "addr:country": "DE",
+                        "addr:postcode": 51063,
+                        "opening_hours": "Mo-Su 11:00-00:00",
+                        "addr:housenumber": "121a"
+                    }
+                },
+                "website": "https://www.gilden-brauhaus.de/",
+                "opening_hours": "Mo-Su 11:00-00:00",
+                "contact": {
+                    "phone": "+49-221-6406339"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    }
+                },
+                "place_id": "514fc532a259061c4059b0f8e9014e7c4940f00103f901fc3303100000000092030f47696c64656e204272617568617573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0062013,
+                    50.97113059925448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stickel",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50825",
+                "district": "Ehrenfeld",
+                "suburb": "Neuehrenfeld",
+                "street": "Simarplatz",
+                "housenumber": "10",
+                "lon": 6.9174429,
+                "lat": 50.9560372,
+                "state_code": "NW",
+                "formatted": "Stickel, Simarplatz 10, 50825 Cologne, Germany",
+                "address_line1": "Stickel",
+                "address_line2": "Simarplatz 10, 50825 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Stickel",
+                        "email": "info@restaurant-stickel.de",
+                        "phone": "+49 221 5955906",
+                        "osm_id": 272779597,
+                        "amenity": "restaurant",
+                        "website": "https://www.restaurant-stickel.de/",
+                        "osm_type": "n",
+                        "reservation": "yes",
+                        "opening_hours": "Mo, Tu, We-Su 16:00-24:00; We off",
+                        "outdoor_seating": "yes",
+                        "opening_hours:kitchen": "17:00-22:00"
+                    }
+                },
+                "website": "https://www.restaurant-stickel.de/",
+                "opening_hours": "Mo, Tu, We-Su 16:00-24:00; We off",
+                "contact": {
+                    "phone": "+49 221 5955906",
+                    "email": "info@restaurant-stickel.de"
+                },
+                "facilities": {
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "reservation": "required"
+                },
+                "place_id": "5122cacd2676ab1b4059cc484c6d5f7a4940f00103f9014d49421000000000920307537469636b656c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.917442899999999,
+                    50.95603719925711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borsalino",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50674",
+                "district": "Innenstadt",
+                "neighbourhood": "Rathenauviertel",
+                "suburb": "Neustadt/Süd",
+                "street": "Zülpicher Straße",
+                "housenumber": "7",
+                "lon": 6.9385423,
+                "lat": 50.9297077,
+                "state_code": "NW",
+                "formatted": "Borsalino, Zülpicher Straße 7, 50674 Cologne, Germany",
+                "address_line1": "Borsalino",
+                "address_line2": "Zülpicher Straße 7, 50674 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian",
+                    "vegan",
+                    "vegetarian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Borsalino",
+                        "phone": "+49221248852",
+                        "osm_id": 286420723,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "https://www.restaurant-borsalino.de/",
+                        "operator": "Y. Kutlu",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "diet:vegan": "yes",
+                        "wheelchair": "no",
+                        "addr:street": "Zülpicher Straße",
+                        "addr:country": "DE",
+                        "addr:postcode": 50674,
+                        "opening_hours": "Mo-Th 11:30-24:00, Fr 11:30-03:00, Sa 09:00-03:00, Su 09:00-24:00",
+                        "diet:vegetarian": "yes",
+                        "addr:housenumber": 7,
+                        "air_conditioning": "no",
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.restaurant-borsalino.de/",
+                "opening_hours": "Mo-Th 11:30-24:00, Fr 11:30-03:00, Sa 09:00-03:00, Su 09:00-24:00",
+                "operator": "Y. Kutlu",
+                "contact": {
+                    "phone": "+49221248852"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "toilets": false,
+                    "air_conditioning": false
+                },
+                "catering": {
+                    "cuisine": "italian",
+                    "diet": {
+                        "vegan": true,
+                        "vegetarian": true
+                    }
+                },
+                "place_id": "5185a6913b11c11b4059999571a900774940f00103f901f36e121100000000920309426f7273616c696e6f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.938542299999999,
+                    50.929707699261776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Stella",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50735",
+                "district": "Nippes",
+                "suburb": "Riehl",
+                "street": "Stammheimer Straße",
+                "housenumber": "101a",
+                "lon": 6.9763688,
+                "lat": 50.9645732,
+                "state_code": "NW",
+                "formatted": "La Stella, Stammheimer Straße 101a, 50735 Cologne, Germany",
+                "address_line1": "La Stella",
+                "address_line2": "Stammheimer Straße 101a, 50735 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian",
+                    "vegetarian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "La Stella",
+                        "phone": "+49 163 5747981",
+                        "osm_id": 292077906,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "https://www.la-stella-koeln.de/",
+                        "delivery": "yes",
+                        "osm_type": "n",
+                        "check_date": "2024-09-01",
+                        "opening_hours": "Mo off; Tu-Th 17:00-22:00; Fr 11:30-22:00; Sa, Su 12:00-22:00",
+                        "indoor_seating": "yes",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes"
+                    }
+                },
+                "website": "https://www.la-stella-koeln.de/",
+                "opening_hours": "Mo off; Tu-Th 17:00-22:00; Fr 11:30-22:00; Sa, Su 12:00-22:00",
+                "contact": {
+                    "phone": "+49 163 5747981"
+                },
+                "facilities": {
+                    "outdoor_seating": true,
+                    "delivery": true
+                },
+                "catering": {
+                    "cuisine": "italian",
+                    "diet": {
+                        "vegetarian": true
+                    }
+                },
+                "place_id": "51cc560339cde71b405952b37422777b4940f00103f90152c16811000000009203094c61205374656c6c61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9763687999999995,
+                    50.96457319925561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RheinLust",
+                "old_name": "vKc",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "51105",
+                "district": "Porz",
+                "suburb": "Poll",
+                "street": "Alfred-Schütte-Allee",
+                "housenumber": "51",
+                "lon": 6.97993,
+                "lat": 50.9161132,
+                "state_code": "NW",
+                "formatted": "RheinLust, Alfred-Schütte-Allee 51, 51105 Cologne, Germany",
+                "address_line1": "RheinLust",
+                "address_line2": "Alfred-Schütte-Allee 51, 51105 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "RheinLust",
+                        "phone": "+49 170 2824516",
+                        "osm_id": 292876382,
+                        "amenity": "restaurant",
+                        "toilets": "yes",
+                        "website": "https://www.vkc-koeln.de/der-verein/gastronomie/",
+                        "old_name": "vKc",
+                        "osm_type": "n",
+                        "breakfast": "yes",
+                        "old:amenity": "cafe",
+                        "opening_hours": "Mo-Fr 12:00-23:00; Sa-Su 10:00-23:00",
+                        "toilets:access": "permissive",
+                        "outdoor_seating": "yes",
+                        "toilets:handwashing": "yes"
+                    }
+                },
+                "website": "https://www.vkc-koeln.de/der-verein/gastronomie/",
+                "opening_hours": "Mo-Fr 12:00-23:00; Sa-Su 10:00-23:00",
+                "name_other": {
+                    "old_name": "vKc"
+                },
+                "contact": {
+                    "phone": "+49 170 2824516"
+                },
+                "facilities": {
+                    "toilets": true,
+                    "outdoor_seating": true
+                },
+                "place_id": "51247a19c572eb1b40590623833243754940f00103f9015ef0741100000000920309526865696e4c757374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9799299999999995,
+                    50.91611319926419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bagatelle",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50678",
+                "district": "Innenstadt",
+                "suburb": "Südstadt",
+                "street": "Teutoburger Straße",
+                "housenumber": "17",
+                "lon": 6.9622516,
+                "lat": 50.9188888,
+                "state_code": "NW",
+                "formatted": "Bagatelle, Teutoburger Straße 17, 50678 Cologne, Germany",
+                "address_line1": "Bagatelle",
+                "address_line2": "Teutoburger Straße 17, 50678 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.tapas",
+                    "vegetarian",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bagatelle",
+                        "email": "info@bagatelle.koeln",
+                        "osm_id": 293205512,
+                        "amenity": "restaurant",
+                        "cuisine": "tapas",
+                        "website": "https://www.bagatelle.koeln/",
+                        "delivery": "no",
+                        "operator": "Reja-Lisa Rabe",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Teutoburger Straße",
+                        "addr:suburb": "Südstadt",
+                        "reservation": "recommended",
+                        "addr:country": "DE",
+                        "addr:postcode": 50678,
+                        "opening_hours": "Mo-Sa 17:00-01:00, Su 15:00-24:00",
+                        "contact:mobile": "+49 160 994 452 67",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 17,
+                        "contact:facebook": "https://www.facebook.com/bagatellesuedstadt/",
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.bagatelle.koeln/",
+                "opening_hours": "Mo-Sa 17:00-01:00, Su 15:00-24:00",
+                "operator": "Reja-Lisa Rabe",
+                "contact": {
+                    "email": "info@bagatelle.koeln"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "toilets": false,
+                    "outdoor_seating": true,
+                    "delivery": false
+                },
+                "catering": {
+                    "cuisine": "tapas",
+                    "diet": {
+                        "vegetarian": true
+                    },
+                    "reservation": "recommended"
+                },
+                "place_id": "513d18c27b58d91b4059cabfee259e754940f00103f90108f67911000000009203094261676174656c6c65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.962251599999999,
+                    50.91888879926371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mongo's",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50679",
+                "district": "Innenstadt",
+                "suburb": "Deutz",
+                "street": "Ottoplatz",
+                "housenumber": "1",
+                "lon": 6.9722495,
+                "lat": 50.9402502,
+                "state_code": "NW",
+                "formatted": "Mongo's, Ottoplatz 1, 50679 Cologne, Germany",
+                "address_line1": "Mongo's",
+                "address_line2": "Ottoplatz 1, 50679 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "vegan",
+                    "vegetarian",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Mongo's",
+                        "phone": "+49 221 9893810",
+                        "osm_id": 295993266,
+                        "amenity": "restaurant",
+                        "website": "https://www.mongos.de/de/restaurant/koeln.php",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "check_date": "2024-04-12",
+                        "designated": "Restaurant",
+                        "diet:vegan": "yes",
+                        "wheelchair": "yes",
+                        "addr:street": "Ottoplatz",
+                        "addr:country": "DE",
+                        "addr:postcode": 50679,
+                        "opening_hours": "Mo-Th 12:00-24:00; Fr-Sa 12:00-01:00; Su,PH 11:00-24:00",
+                        "indoor_seating": "yes",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 1,
+                        "toilets:wheelchair": "no",
+                        "wheelchair:description": "keine Rollstuhltoilette"
+                    }
+                },
+                "website": "https://www.mongos.de/de/restaurant/koeln.php",
+                "opening_hours": "Mo-Th 12:00-24:00; Fr-Sa 12:00-01:00; Su,PH 11:00-24:00",
+                "contact": {
+                    "phone": "+49 221 9893810"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "description": "keine Rollstuhltoilette"
+                    },
+                    "toilets": false,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "diet": {
+                        "vegan": true,
+                        "vegetarian": true
+                    }
+                },
+                "place_id": "519d35785f95e31b40597ef0571e5a784940f00103f901b27fa411000000009203074d6f6e676f2773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.972249500000001,
+                    50.94025019925992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Limani",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50678",
+                "district": "Innenstadt",
+                "suburb": "Neustadt/Süd",
+                "commercial": "Rheinauhafen",
+                "street": "Elisabeth-Treskow-Platz",
+                "lon": 6.9683518,
+                "lat": 50.9223326,
+                "state_code": "NW",
+                "formatted": "Limani, Elisabeth-Treskow-Platz, 50678 Cologne, Germany",
+                "address_line1": "Limani",
+                "address_line2": "Elisabeth-Treskow-Platz, 50678 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Limani",
+                        "email": "info@limanicologne.de",
+                        "phone": "+49 221 7190590",
+                        "osm_id": 298083391,
+                        "amenity": "restaurant",
+                        "website": "https://www.limanicologne.de/",
+                        "osm_type": "n",
+                        "wheelchair": "no",
+                        "opening_hours": "Mo-Su 10:00-01:00",
+                        "opening_hours:kitchen": "12:00-23:00"
+                    }
+                },
+                "website": "https://www.limanicologne.de/",
+                "opening_hours": "Mo-Su 10:00-01:00",
+                "contact": {
+                    "phone": "+49 221 7190590",
+                    "email": "info@limanicologne.de"
+                },
+                "facilities": {
+                    "wheelchair": false
+                },
+                "place_id": "514717409d97df1b405952ef9efe0e764940f00103f9013f64c411000000009203064c696d616e69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9683518,
+                    50.9223325992631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Los Carnales Taqueria",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50678",
+                "district": "Innenstadt",
+                "suburb": "Neustadt/Süd",
+                "commercial": "Rheinauhafen",
+                "street": "Agrippinawerft",
+                "housenumber": "30",
+                "lon": 6.969862,
+                "lat": 50.918935,
+                "state_code": "NW",
+                "formatted": "Los Carnales Taqueria, Agrippinawerft 30, 50678 Cologne, Germany",
+                "address_line1": "Los Carnales Taqueria",
+                "address_line2": "Agrippinawerft 30, 50678 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.mexican",
+                    "internet_access",
+                    "vegan",
+                    "vegetarian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Los Carnales Taqueria",
+                        "email": "reservaciones@loscarnales.de",
+                        "phone": "+49 221 56083195",
+                        "osm_id": 298094322,
+                        "amenity": "restaurant",
+                        "cuisine": "mexican",
+                        "website": "https://www.loscarnales.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "diet:vegan": "yes",
+                        "addr:street": "Agrippinawerft",
+                        "reservation": "recommended",
+                        "addr:postcode": 50678,
+                        "opening_hours": "Mo-Fr 17:00-00:00; Sa-Su 12:00-00:00",
+                        "event_location": "yes",
+                        "diet:vegetarian": "yes",
+                        "internet_access": "wlan",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 30,
+                        "contact:facebook": "TacoslosCarnalesKoeln",
+                        "contact:instagram": "_tacosloscarnales_"
+                    }
+                },
+                "website": "https://www.loscarnales.de/",
+                "opening_hours": "Mo-Fr 17:00-00:00; Sa-Su 12:00-00:00",
+                "contact": {
+                    "phone": "+49 221 56083195",
+                    "email": "reservaciones@loscarnales.de"
+                },
+                "facilities": {
+                    "internet_access": true,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "mexican",
+                    "diet": {
+                        "vegan": true,
+                        "vegetarian": true
+                    },
+                    "reservation": "recommended"
+                },
+                "place_id": "5159880e8123e11b4059627e7ca99f754940f00103f901f28ec411000000009203154c6f73204361726e616c6573205461717565726961"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.969862,
+                    50.9189349992637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Peking am Dom",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50667",
+                "district": "Innenstadt",
+                "neighbourhood": "Andreasviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Marzellenstraße",
+                "housenumber": "2-8",
+                "lon": 6.9563048,
+                "lat": 50.9418989,
+                "state_code": "NW",
+                "formatted": "Peking am Dom, Marzellenstraße 2-8, 50667 Cologne, Germany",
+                "address_line1": "Peking am Dom",
+                "address_line2": "Marzellenstraße 2-8, 50667 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.chinese",
+                    "vegan",
+                    "vegetarian",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Peking am Dom",
+                        "lgbtq": "welcome",
+                        "phone": "+49 221 137644",
+                        "osm_id": 303222529,
+                        "amenity": "restaurant",
+                        "cuisine": "chinese",
+                        "website": "https://www.peking-am-dom.de/",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "diet:meat": "yes",
+                        "diet:vegan": "yes",
+                        "wheelchair": "yes",
+                        "addr:street": "Marzellenstraße",
+                        "payment:cash": "yes",
+                        "opening_hours": "Mo-Su 11:30-22:30",
+                        "diet:vegetarian": "yes",
+                        "addr:housenumber": "2-8",
+                        "toilets:wheelchair": "no",
+                        "payment:credit_cards": "yes"
+                    }
+                },
+                "website": "https://www.peking-am-dom.de/",
+                "opening_hours": "Mo-Su 11:30-22:30",
+                "contact": {
+                    "phone": "+49 221 137644"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "toilets": false,
+                    "takeaway": true
+                },
+                "payment_options": {
+                    "cash": true,
+                    "credit_cards": true
+                },
+                "catering": {
+                    "cuisine": "chinese",
+                    "diet": {
+                        "meat": true,
+                        "vegan": true,
+                        "vegetarian": true
+                    }
+                },
+                "place_id": "510208c49041d31b4059ad3aa42490784940f00103f90101cf12120000000092030d50656b696e6720616d20446f6d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9563048,
+                    50.941898899259606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schelds em Oellig",
+                "old_name": "Reissdorf em Oellig",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50670",
+                "district": "Innenstadt",
+                "neighbourhood": "Agnesviertel",
+                "suburb": "Neustadt/Nord",
+                "street": "Neusser Straße",
+                "housenumber": "87",
+                "lon": 6.956506,
+                "lat": 50.9551026,
+                "state_code": "NW",
+                "formatted": "Schelds em Oellig, Neusser Straße 87, 50670 Cologne, Germany",
+                "address_line1": "Schelds em Oellig",
+                "address_line2": "Neusser Straße 87, 50670 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.regional",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Schelds em Oellig",
+                        "email": "info@schelds-em-oellig.koeln",
+                        "phone": "+49 221 13970707",
+                        "osm_id": 304536338,
+                        "amenity": "restaurant",
+                        "cuisine": "regional",
+                        "website": "https://www.schelds-restaurant-koeln.de/",
+                        "old_name": "Reissdorf em Oellig",
+                        "osm_type": "n",
+                        "ref:vatin": "DE815717297",
+                        "start_date": "2015-11-25",
+                        "wheelchair": "limited",
+                        "addr:street": "Neusser Straße",
+                        "opening_hours": "Tu-Sa 17:00-24:00; Su 12:00-15:00,17:00-24:00",
+                        "addr:housenumber": 87
+                    }
+                },
+                "website": "https://www.schelds-restaurant-koeln.de/",
+                "opening_hours": "Tu-Sa 17:00-24:00; Su 12:00-15:00,17:00-24:00",
+                "name_other": {
+                    "old_name": "Reissdorf em Oellig"
+                },
+                "ref_other": {
+                    "vatin": "DE815717297"
+                },
+                "contact": {
+                    "phone": "+49 221 13970707",
+                    "email": "info@schelds-em-oellig.koeln"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    }
+                },
+                "catering": {
+                    "cuisine": "regional"
+                },
+                "place_id": "510ab6114f76d31b40593b114ecd407a4940f00103f90112db261200000000920311536368656c647320656d204f656c6c6967"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.956505999999999,
+                    50.95510259925728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Culinarius",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50931",
+                "district": "Lindenthal",
+                "suburb": "Lindenthal",
+                "street": "Dürener Straße",
+                "housenumber": "191",
+                "lon": 6.9144003,
+                "lat": 50.9301372,
+                "state_code": "NW",
+                "formatted": "Culinarius, Dürener Straße 191, 50931 Cologne, Germany",
+                "address_line1": "Culinarius",
+                "address_line2": "Dürener Straße 191, 50931 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Culinarius",
+                        "phone": "+49 221 4061348",
+                        "osm_id": 309731964,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "https://www.culinarius-koeln.de/",
+                        "osm_type": "n",
+                        "wheelchair": "limited",
+                        "opening_hours": "Mo-Su 12:00-24:00",
+                        "toilets:wheelchair": "yes"
+                    }
+                },
+                "website": "https://www.culinarius-koeln.de/",
+                "opening_hours": "Mo-Su 12:00-24:00",
+                "contact": {
+                    "phone": "+49 221 4061348"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "toilets": true
+                },
+                "catering": {
+                    "cuisine": "italian"
+                },
+                "place_id": "5172cf5f8d58a81b40599ecf59bc0e774940f00103f9017c2276120000000092030a43756c696e6172697573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.914400299999999,
+                    50.930137199261694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zippiri Weinbar",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50931",
+                "district": "Lindenthal",
+                "suburb": "Lindenthal",
+                "street": "Aachener Straße",
+                "housenumber": "259",
+                "lon": 6.9182217,
+                "lat": 50.9365078,
+                "state_code": "NW",
+                "formatted": "Zippiri Weinbar, Aachener Straße 259, 50931 Cologne, Germany",
+                "address_line1": "Zippiri Weinbar",
+                "address_line2": "Aachener Straße 259, 50931 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Zippiri Weinbar",
+                        "email": "weinbar@zippiri.de",
+                        "phone": "+49 221 42088451",
+                        "osm_id": 314436894,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "https://www.zippiri.de",
+                        "operator": "Michele Lauricella Ninotta",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "addr:street": "Aachener Straße",
+                        "addr:postcode": 50931,
+                        "opening_hours": "Th-Mo 18:00-23:00",
+                        "addr:housenumber": 259,
+                        "contact:instagram": "zippiri_weinbar"
+                    }
+                },
+                "website": "https://www.zippiri.de",
+                "opening_hours": "Th-Mo 18:00-23:00",
+                "operator": "Michele Lauricella Ninotta",
+                "contact": {
+                    "phone": "+49 221 42088451",
+                    "email": "weinbar@zippiri.de"
+                },
+                "catering": {
+                    "cuisine": "italian"
+                },
+                "place_id": "51fbe82f4f42ac1b4059f522d17cdf774940f00103f9011eedbd120000000092030f5a697070697269205765696e626172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.918221699999999,
+                    50.936507799260575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ZEN Japanese Restaurant",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50935",
+                "district": "Lindenthal",
+                "suburb": "Lindenthal",
+                "street": "Bachemer Straße",
+                "housenumber": "233",
+                "lon": 6.907608,
+                "lat": 50.9252465,
+                "state_code": "NW",
+                "formatted": "ZEN Japanese Restaurant, Bachemer Straße 233, 50935 Cologne, Germany",
+                "address_line1": "ZEN Japanese Restaurant",
+                "address_line2": "Bachemer Straße 233, 50935 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.japanese"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "ZEN Japanese Restaurant",
+                        "phone": "+49 (221) 3990 9986",
+                        "osm_id": 332079680,
+                        "amenity": "restaurant",
+                        "cuisine": "japanese",
+                        "website": "https://www.restaurant-zen.de/lindenthal",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "check_date": "2022-10-16",
+                        "addr:street": "Bachemer Straße",
+                        "addr:postcode": 50935,
+                        "opening_hours": "Mo-Su 17:00-23:00",
+                        "addr:housenumber": 233
+                    }
+                },
+                "website": "https://www.restaurant-zen.de/lindenthal",
+                "opening_hours": "Mo-Su 17:00-23:00",
+                "contact": {
+                    "phone": "+49 (221) 3990 9986"
+                },
+                "catering": {
+                    "cuisine": "japanese"
+                },
+                "place_id": "51135ad6fd63a11b40591d892f7a6e764940f00103f9014022cb13000000009203175a454e204a6170616e6573652052657374617572616e74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.907607999999999,
+                    50.92524649926256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haldi Spoon",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "51063",
+                "district": "Mülheim",
+                "suburb": "Mülheim",
+                "street": "Dünnwalder Straße",
+                "housenumber": "49",
+                "lon": 7.0062661,
+                "lat": 50.9691966,
+                "state_code": "NW",
+                "formatted": "Haldi Spoon, Dünnwalder Straße 49, 51063 Cologne, Germany",
+                "address_line1": "Haldi Spoon",
+                "address_line2": "Dünnwalder Straße 49, 51063 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.indian"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Haldi Spoon",
+                        "level": 0,
+                        "phone": "+49 221 6406916",
+                        "osm_id": 343471463,
+                        "amenity": "restaurant",
+                        "cuisine": "indian",
+                        "website": "https://www.haldispoon.com",
+                        "osm_type": "n",
+                        "check_date": "2023-02-22",
+                        "wheelchair": "no",
+                        "addr:street": "Dünnwalder Straße",
+                        "opening_hours": "Tu-Su 17:00-21:30",
+                        "payment:cards": "no",
+                        "addr:housenumber": 49,
+                        "payment:debit_cards": "no",
+                        "payment:credit_cards": "no"
+                    }
+                },
+                "website": "https://www.haldispoon.com",
+                "opening_hours": "Tu-Su 17:00-21:30",
+                "contact": {
+                    "phone": "+49 221 6406916"
+                },
+                "facilities": {
+                    "wheelchair": false
+                },
+                "payment_options": {
+                    "cards": false,
+                    "debit_cards": false,
+                    "credit_cards": false
+                },
+                "catering": {
+                    "cuisine": "indian"
+                },
+                "place_id": "513b4bda9e6a061c4059cd9858a20e7c4940f00103f90167f578140000000092030b48616c64692053706f6f6e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0062661,
+                    50.96919659925479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Frizzantino",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "51063",
+                "district": "Mülheim",
+                "suburb": "Mülheim",
+                "street": "Mülheimer Freiheit",
+                "housenumber": "2-4",
+                "lon": 6.9980613,
+                "lat": 50.9624921,
+                "state_code": "NW",
+                "formatted": "Frizzantino, Mülheimer Freiheit 2-4, 51063 Cologne, Germany",
+                "address_line1": "Frizzantino",
+                "address_line2": "Mülheimer Freiheit 2-4, 51063 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.international",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "cafe": "yes",
+                        "name": "Frizzantino",
+                        "phone": "+49 221 56933116",
+                        "osm_id": 343578669,
+                        "amenity": "restaurant",
+                        "cuisine": "international;italian",
+                        "website": "https://www.frizzantino.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "limited",
+                        "addr:street": "Mülheimer Freiheit",
+                        "addr:country": "DE",
+                        "website:menu": "https://www.frizzantino.de/menu",
+                        "addr:postcode": 51063,
+                        "opening_hours": "Tu-Su 17:00-23:00",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": "2-4",
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.frizzantino.de/",
+                "opening_hours": "Tu-Su 17:00-23:00",
+                "contact": {
+                    "phone": "+49 221 56933116"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "toilets": false,
+                    "outdoor_seating": true
+                },
+                "catering": {
+                    "cuisine": "international;italian"
+                },
+                "place_id": "51eb9c0bc803fe1b40593d7becf0327b4940f00103f9012d987a140000000092030b4672697a7a616e74696e6f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.998061299999999,
+                    50.962492099255975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Höninger",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50969",
+                "district": "Rodenkirchen",
+                "suburb": "Zollstock",
+                "street": "Herthastraße",
+                "housenumber": "68",
+                "lon": 6.9409589,
+                "lat": 50.913063,
+                "state_code": "NW",
+                "formatted": "Höninger, Herthastraße 68, 50969 Cologne, Germany",
+                "address_line1": "Höninger",
+                "address_line2": "Herthastraße 68, 50969 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "vegan",
+                    "vegetarian",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Höninger",
+                        "email": "info@hoeninger-koeln.de",
+                        "phone": "+49 221 3685422",
+                        "osm_id": 346411218,
+                        "amenity": "restaurant",
+                        "smoking": "outside",
+                        "toilets": "yes",
+                        "website": "https://www.hoeninger-koeln.de/",
+                        "operator": "HÖNINGER Gastronomie GmbH",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "ref:vatin": "DE247372079",
+                        "diet:vegan": "yes",
+                        "wheelchair": "limited",
+                        "addr:street": "Herthastraße",
+                        "opening_hours": "Mo,Th 16:00-22:00; Tu,We 12:00-22:00; Fr,Sa 16:00-23:00",
+                        "indoor_seating": "yes",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 68
+                    }
+                },
+                "website": "https://www.hoeninger-koeln.de/",
+                "opening_hours": "Mo,Th 16:00-22:00; Tu,We 12:00-22:00; Fr,Sa 16:00-23:00",
+                "operator": "HÖNINGER Gastronomie GmbH",
+                "ref_other": {
+                    "vatin": "DE247372079"
+                },
+                "contact": {
+                    "phone": "+49 221 3685422",
+                    "email": "info@hoeninger-koeln.de"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "smoking": true,
+                    "toilets": true,
+                    "outdoor_seating": true,
+                    "takeaway": true
+                },
+                "catering": {
+                    "diet": {
+                        "vegan": true,
+                        "vegetarian": true
+                    }
+                },
+                "place_id": "514285d9ba8ac31b4059d083943fdf744940f00103f901d2d0a5140000000092030948c3b66e696e676572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9409589,
+                    50.91306299926475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Funkhaus",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50667",
+                "district": "Innenstadt",
+                "neighbourhood": "Andreasviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Wallrafplatz",
+                "housenumber": "5",
+                "lon": 6.9559087,
+                "lat": 50.9403875,
+                "state_code": "NW",
+                "formatted": "Funkhaus, Wallrafplatz 5, 50667 Cologne, Germany",
+                "address_line1": "Funkhaus",
+                "address_line2": "Wallrafplatz 5, 50667 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Funkhaus",
+                        "email": "info@funkhaus-koeln.de",
+                        "phone": "+49 (0)221 955 645 424",
+                        "osm_id": 347538363,
+                        "amenity": "restaurant",
+                        "website": "https://www.funkhaus-koeln.de/",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "ref:vatin": "DE284151983",
+                        "wheelchair": "no",
+                        "addr:street": "Wallrafplatz",
+                        "addr:country": "DE",
+                        "addr:postcode": 50667,
+                        "opening_hours": "Su-Th 08:30-00:00, Fr-Sa 08:30-01:00",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": 5,
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.funkhaus-koeln.de/",
+                "opening_hours": "Su-Th 08:30-00:00, Fr-Sa 08:30-01:00",
+                "ref_other": {
+                    "vatin": "DE284151983"
+                },
+                "contact": {
+                    "phone": "+49 (0)221 955 645 424",
+                    "email": "info@funkhaus-koeln.de"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "toilets": false,
+                    "outdoor_seating": true
+                },
+                "place_id": "51f5d8f1bad9d21b4059b771199e5e784940f00103f901bb03b7140000000092030846756e6b68617573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.955908699999999,
+                    50.94038749925988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tang Wang",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50668",
+                "district": "Innenstadt",
+                "neighbourhood": "Andreasviertel",
+                "suburb": "Altstadt-Nord",
+                "street": "Maximinenstraße",
+                "housenumber": "4",
+                "lon": 6.958204,
+                "lat": 50.9451765,
+                "state_code": "NW",
+                "formatted": "Tang Wang, Maximinenstraße 4, 50668 Cologne, Germany",
+                "address_line1": "Tang Wang",
+                "address_line2": "Maximinenstraße 4, 50668 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.chinese"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tang Wang",
+                        "phone": "+49 221 82956288",
+                        "osm_id": 352671657,
+                        "amenity": "restaurant",
+                        "cuisine": "chinese",
+                        "website": "https://www.tangwang.de/",
+                        "delivery": "yes",
+                        "osm_type": "n",
+                        "addr:city": "Köln",
+                        "wheelchair": "no",
+                        "addr:street": "Maximinenstraße",
+                        "addr:country": "DE",
+                        "addr:postcode": 50668,
+                        "opening_hours": "Mo-Fr,Su 11:30-15:00,17:30-23:00; Sa 11:30-23:00",
+                        "addr:housenumber": 4,
+                        "toilets:wheelchair": "no"
+                    }
+                },
+                "website": "https://www.tangwang.de/",
+                "opening_hours": "Mo-Fr,Su 11:30-15:00,17:30-23:00; Sa 11:30-23:00",
+                "contact": {
+                    "phone": "+49 221 82956288"
+                },
+                "facilities": {
+                    "wheelchair": false,
+                    "toilets": false,
+                    "delivery": true
+                },
+                "catering": {
+                    "cuisine": "chinese"
+                },
+                "place_id": "51e695eb6d33d51b4059f4a1248bfb784940f00103f901a95705150000000092030954616e672057616e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.958204,
+                    50.94517649925902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Salera",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50670",
+                "district": "Innenstadt",
+                "neighbourhood": "Agnesviertel",
+                "suburb": "Neustadt/Nord",
+                "street": "Balthasarstraße",
+                "housenumber": "1",
+                "lon": 6.9521307,
+                "lat": 50.9522863,
+                "state_code": "NW",
+                "formatted": "Salera, Balthasarstraße 1, 50670 Cologne, Germany",
+                "address_line1": "Salera",
+                "address_line2": "Balthasarstraße 1, 50670 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.spanish",
+                    "wheelchair",
+                    "wheelchair.limited"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Salera",
+                        "phone": "+4922116842623",
+                        "osm_id": 358503972,
+                        "amenity": "restaurant",
+                        "cuisine": "spanish",
+                        "smoking": "no",
+                        "website": "https://www.salera-restaurant.de/",
+                        "operator": "Beatrix Kayser",
+                        "osm_type": "n",
+                        "wheelchair": "limited",
+                        "opening_hours": "Tu-Sa 18:00-24:00"
+                    }
+                },
+                "website": "https://www.salera-restaurant.de/",
+                "opening_hours": "Tu-Sa 18:00-24:00",
+                "operator": "Beatrix Kayser",
+                "contact": {
+                    "phone": "+4922116842623"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "wheelchair_details": {
+                        "condition": "limited"
+                    },
+                    "smoking": false
+                },
+                "catering": {
+                    "cuisine": "spanish"
+                },
+                "place_id": "510112a859fbce1b4059d8de7784e4794940f00103f90124565e150000000092030653616c657261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.952130699999999,
+                    50.952286299257764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mekong Restaurant",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50937",
+                "district": "Lindenthal",
+                "suburb": "Sülz",
+                "street": "Berrenrather Straße",
+                "lon": 6.9225705,
+                "lat": 50.9156479,
+                "state_code": "NW",
+                "formatted": "Mekong Restaurant, Berrenrather Straße, 50937 Cologne, Germany",
+                "address_line1": "Mekong Restaurant",
+                "address_line2": "Berrenrather Straße, 50937 Cologne, Germany",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.vietnamese",
+                    "vegetarian",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Mekong Restaurant",
+                        "phone": "+49 221 447750",
+                        "osm_id": 358813500,
+                        "amenity": "restaurant",
+                        "cuisine": "vietnamese",
+                        "website": "https://www.mekong-restaurant.de/",
+                        "osm_type": "n",
+                        "wheelchair": "yes",
+                        "addr:postcode": 50937,
+                        "opening_hours": "Su,PH 13:00-22:30; Tu-Fr 11:30-15:00,17:30-22:30; Sa 14:00-22:30",
+                        "indoor_seating": "yes",
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "no"
+                    }
+                },
+                "website": "https://www.mekong-restaurant.de/",
+                "opening_hours": "Su,PH 13:00-22:30; Tu-Fr 11:30-15:00,17:30-22:30; Sa 14:00-22:30",
+                "contact": {
+                    "phone": "+49 221 447750"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "outdoor_seating": false
+                },
+                "catering": {
+                    "cuisine": "vietnamese",
+                    "diet": {
+                        "vegetarian": true
+                    }
+                },
+                "place_id": "5179043752b6b01b4059dffe4af333754940f00103f9013c0f6315000000009203114d656b6f6e672052657374617572616e74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9225705,
+                    50.91564789926428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grissini",
+                "country": "Germany",
+                "country_code": "de",
+                "state": "North Rhine-Westphalia",
+                "city": "Cologne",
+                "postcode": "50679",
+                "district": "Innenstadt",
+                "suburb": "Deutz",
+                "street": "Kennedy-Ufer",
+                "lon": 6.96883480864898,
+                "lat": 50.94064315,
+                "state_code": "NW",
+                "formatted": "Grissini, Kennedy-Ufer, 50679 Cologne, Germany",
+                "address_line1": "Grissini",
+                "address_line2": "Kennedy-Ufer, 50679 Cologne, Germany",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.italian",
+                    "vegetarian",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Grissini",
+                        "email": "grissini.cologne@hyatt.com",
+                        "phone": "+49 221 82811868",
+                        "osm_id": 361209249,
+                        "amenity": "restaurant",
+                        "cuisine": "italian",
+                        "website": "https://www.grissini-restaurant.de/",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "roof:shape": "flat",
+                        "wheelchair": "yes",
+                        "payment:jcb": "yes",
+                        "payment:cash": "yes",
+                        "payment:visa": "yes",
+                        "opening_hours": "Mo-Su, PH 11:30-23:00; Dec 24 off",
+                        "building:levels": 1,
+                        "diet:vegetarian": "yes",
+                        "outdoor_seating": "yes",
+                        "payment:maestro": "yes",
+                        "payment:mastercard": "yes",
+                        "payment:diners_club": "yes",
+                        "payment:american_express": "yes"
+                    }
+                },
+                "website": "https://www.grissini-restaurant.de/",
+                "opening_hours": "Mo-Su, PH 11:30-23:00; Dec 24 off",
+                "contact": {
+                    "phone": "+49 221 82811868",
+                    "email": "grissini.cologne@hyatt.com"
+                },
+                "facilities": {
+                    "wheelchair": true,
+                    "outdoor_seating": true
+                },
+                "payment_options": {
+                    "jcb": true,
+                    "cash": true,
+                    "visa": true,
+                    "maestro": true,
+                    "mastercard": true,
+                    "diners_club": true,
+                    "american_express": true
+                },
+                "catering": {
+                    "cuisine": "italian",
+                    "diet": {
+                        "vegetarian": true
+                    }
+                },
+                "building": {
+                    "levels": 1,
+                    "roof": {
+                        "shape": "flat"
+                    }
+                },
+                "place_id": "51c27e693b16e01b405984a3a5fe66784940f00102f901a19d8715000000009203084772697373696e69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.96883480864898,
+                    50.94064314925984
+                ]
+            }
+        }
+    ]
+}
