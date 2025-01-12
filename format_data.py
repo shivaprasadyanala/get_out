@@ -4,9 +4,14 @@ from pymongo import MongoClient
 from datetime import datetime
 import uuid
 app = Flask(__name__)
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+
+mongo_url = os.getenv('MONGO_URL')
 # Connect to MongoDB
-client = MongoClient('mongodb+srv://shiva:root@cluster0.3vd7ixu.mongodb.net/')
+client = MongoClient(mongo_url)
 # client = MongoClient('mongodb://localhost:27017/')
 db = client['GET_OUT']  # Replace 'your_database_name' with your actual database name
 collection = db['restaurants']
